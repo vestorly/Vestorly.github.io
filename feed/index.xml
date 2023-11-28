@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vestorly</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Nov 2023 20:38:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>ColdFusion, Flex, AIR and spatial applications (maps and more)&#8230;</title>
+		<link>/coldfusion-flex-air-and-spatial-applications-maps-and-more/</link>
+					<comments>/coldfusion-flex-air-and-spatial-applications-maps-and-more/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2023 20:38:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=28</guid>
+
+					<description><![CDATA[Paying for that big Government ArcIMS site This one from Slashdot, where they are reporting that Maricopa county in Arizona is putting ads on the counties ArcIMS sites. They look like pretty basic HTML viewer applications, perhaps someone should suggest a ColdFusion upgrade with all those adverstising dollars&#8230;I am not sure how other government sites...]]></description>
+										<content:encoded><![CDATA[<p>Paying for that big Government ArcIMS site<br />
+This one from Slashdot, where they are reporting that Maricopa county in Arizona is putting ads on the counties ArcIMS sites. They look like pretty basic HTML viewer applications, perhaps someone should suggest a ColdFusion upgrade with all those adverstising dollars&#8230;I am not sure how other government sites would warm to the idea of Ads on their GIS holdings&#8230;defence maybe, say Northrup, Boeing&#8230;hmm</p>
+<p>Java Connector Manipulation Examples<br />
+I am finally testing some of the CF connections through the Java Connector. Does anyone have a good example of generating an Acetate layer through and/or Layer Manipulation ? Iam just getting my head around manipulating the objects and I can&#8217;t quite get how to call other object methods (such as Acetate) and have them work within the same map image. Thanks.</p>
+<p>CFMX in Production or Still Waiting ?<br />
+I am planning the upgrade of our production box to CFMX for J2EE. We are still thinking of waiting for the next release of CFMX aka &#8220;Red Sky&#8221; as the upgrade will be a major step for us &#8212; and not without a reasonable level of nervous anxiety. Our test machine has been quite happily running CFMX for J2EE on JRUN with ArcIMS 4.0.1 and in my opinion this is the most stable configuration to date.</p>
+<p>So I was wondering how many out there have to CFMX on their production servers ? Stats I have seen tossed around suggest that about 30% of CF people have made this move up to now.</p>
+<p>I have been hearing more and more from the ESRI rumour mill about ArcGIS 9 &#8212; and the jump to ArcIMS 9 that is planned for the big announcements in San Diego. The rumours are:</p>
+<p>&#8212; ArcGIS 9 will have a server based object model &#8212; into which the different client applications hook into &#8212; they are calling this &#8220;G .Net&#8221; &#8212; as in &#8220;Gee, that sounds a lot like Microsoft&#8217;s web services architecture&#8221;.</p>
+<p>&#8212; ArcIMS 9 will be totally different from the current ArcIMS which will soon be called &#8220;ArcIMS Classic&#8221; &#8212; as in, &#8220;do people drink more Coca-Cola or Coca-Cola Classic ?&#8221;</p>
+<p>&#8212; ArcIMS 9 will hook into the ArcGIS 9 server and will thus provide some low-level access to the ArcGIS 9 object model functions.</p>
+<p>So, given that all UC attendees will be in the thick of the hype-fest, it would be great to pin one the ESRI cherleaders down and get the skivy on what the future of ColdFusion and ArcIMS will be. I think that the document they have released on ColdFusion and Java integration is very telling of things to come, but this could always be yet another false lead. I look forward to seeing some posts about this from the conference.</p>
+<p>Posted by Kirk at 09:16 AM | Permalink | Comments (1) | TrackBacks (0)</p>
+<p>There were some comments previously about getting Flash Comm Server for the UG. I think that this is impractical given the time allotments and Jason&#8217;s workload just getting prepared for the meeting. However, it would be good to get a/some powerpoint(s) as a re-cap of the meeting up on Breeze for the user group.</p>
+<p>Ross McCabe from Sinclair, Knight, Merz in Canberra is coming down to Hobart for a visit next week and to look at some CF + ArcIMS code with me.</p>
+<p>I tracked down Ross via the aforementioned WALIS (Western Australian Land Information System) and the Australian Natural Resource Atlas. Both applications are ArcIMS and CF sites. I am looking forward to going through some of that code with him.</p>
+<p>Web Mapping/Web Services Contest<br />
+Directions Magazine&#8217;s First Annual Web Mapping/Web Services Contest is now accepting entries.</p>
+<p>You can submit your sites at: http://www.directionsmag.com/web.mapping.contest/</p>
+<p>Three lucky winners get an XBox (I wonder, could we swap &#8217;em for a Playstation instead?)</p>
+<p>It would be great to see an ArcIMS/ColdFusion app as a finalist!</p>
+<p>Good luck</p>
+<p>&nbsp;</p>
+<p>ESRI UC Fast Approaching<br />
+Hmm&#8230;Lets see. The user conference is fast approaching and 2 things are apparent:</p>
+<p>-I have done almost nothing to prepare for our first meeting<br />
+-I haven&#8217;t even thought about writing my paper/presentation</p>
+<p>Here are the details on the meeting:</p>
+<p>&nbsp;</p>
+<p>So&#8230;should we write up something official? Or maybe just a get to know you session? Slightly off topic here, but Phish is playing in San Diego Wednesday, July 9th during the conference. Anyone interested?</p>
+<p>&nbsp;</p>
+<p>Geography everywhere<br />
+while i&#8217;ve never seen an arcIMS developer wearing a black beret, if these links are any indication, i guess geography&#8217;s becoming trendy. an article on Full As A Goog got me started on this.</p>
+<p>geoURL is a reverse directory of location to url (how cool is that).</p>
+<p>here&#8217;s an interesing application of geoURL (yes i&#8217;m easily amused but its a nifty idea nonetheless).</p>
+<p>interesting story on the geography of the internetin the economist</p>
+<p>ditto for the guardian</p>
+<p>these sorts of applications ought to be a breeze w/arcIMS &amp; cf. maybe something for the use group to consider?</p>
+<p>Tip: Get Client Timezone<br />
+I often need to get clientside timezone info for time sensitive data. One simple way is to use Dan Switzer&#8217;s Client/Server Gateway JSAPI to grab the client&#8217;s timezoneoffset via js, falling back (or also using) a select populated with data from java.util.SimpleTimeZone. More info (including code) can be found here.</p>
+<p>&nbsp;</p>
+<p>Rumour or Fact ? CFMX Enterprise to become CFMX for J2EE<br />
+Since CFMX for J2EE has solved my problems, and I am liking it more and more, I have been pondering the question as to whether or not CFMX Enterprise may in future be converted into CFMX for J2EE. The two stumbling blocks preventing this were (and for many still are) the installation &#8212; or rather the deployment of CFMX for J2EE and the change of directory structures in CFMX for J2EE &#8212; which we are still waiting to see an elegant fix for &#8212; that is CFMX for J2EE runs as a &#8220;web application&#8221; under J2EE and as such follows more rules as to where files are placed &#8211; as opposed to mapping a folder in standalone. If MM can crack this difficulty then there is no reason to keep standalone Enterprise hanging around &#8212; as long as they can convince hosting providers to take it up, which in my opinion is the key to a successful upgrade, because if your &#8220;Joe Bloggs&#8221; can&#8217;t get his site hosted then there is not enough grunt in the expansion of ColdFusion &#8211; which is in all of our best interests.</p>
+<p>Anyway, if you haven&#8217;t yet, I recommend giving CFMX for J2EE a bit of testing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/coldfusion-flex-air-and-spatial-applications-maps-and-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flash-ArcIMS-CFMX</title>
+		<link>/flash-arcims-cfmx/</link>
+					<comments>/flash-arcims-cfmx/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2023 20:36:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=26</guid>
+
+					<description><![CDATA[Hey Everybody- Here&#8217;s another Flash-ArcIMS-CF example application that my colleague (Asif Iqbal) here at the Kansas Geological Survey has written for the community. He has built it from the ground up using Flash as the GUI environment and CF as the back-end application logic environment. CF then executes requests to ArcIMS and the flash client...]]></description>
+										<content:encoded><![CDATA[<p>Hey Everybody-</p>
+<p>Here&#8217;s another Flash-ArcIMS-CF example application that my colleague (Asif Iqbal) here at the Kansas Geological Survey has written for the community. He has built it from the ground up using Flash as the GUI environment and CF as the back-end application logic environment. CF then executes requests to ArcIMS and the flash client handles the output. Asif has done a great job on this and has documented the flash code extensively. I encourage you to check it out, download it, and try it out with your map services.</p>
+<p>http://drysdale.kgs.ku.edu/flash/</p>
+<p>This example application does not do any database queries or take advantage of the XML processing capabilities of CFMX which when employed make this environment 10 times more powerful. Dynamic database-driven Flash applications rule!</p>
+<p>ArcIMS and the competition<br />
+OK, so now we have a new version of ArcIMS &#8212; but has so much happened since the initial release? And how is the competition doing? I haven&#8217;t followed things very closely, but I feel that ArcIMS is passed in terms of standards compliance at least. How does ArcIMS stack up against deegree, mapserver and others (non-open source) in performance/standards/cartographic quality/database support. I recently saw the demis demo, and I was very impressed: http://www.demis.nl/home/pages/wms/docs/wmsclients.htm</p>
+<p>Hi All-</p>
+<p>I just wanted to let everyone know that I will be filling in for Jason at the ESRI conference&#8211;Jason&#8217;s going phishing. He asked me to take over the organization of the CF-ArcIMS users group meeting we are having. So&#8230;I would like to wet the appetite of any newbie&#8217;s that come along by showing them all of the way cool, easy things that you can do with CF in combination with ArcIMS. Jason has suggested inviting Margaret from ESRI (a cf developer who works on one the ArcIMS teams) to come and give a short &#8220;what&#8217;s new&#8221; with the latest release of ArcIMS. What about a CF expert? Paul H. are you going to be at the conference? And if so would you like to get roped into this?</p>
+<p>We would also like to showcase other sites the community has developed. I know everybody has the issue of&#8230;this site is not for public display&#8230;so what I would like to see is if the community could give one or two powerpoint slides that I could show to the group. What do you think?</p>
+<p>&nbsp;</p>
+<p>Also&#8230;What is up with Macromedia&#8217;s CF discussion group page? It hasn&#8217;t worked for like two months&#8230;.</p>
+<p>One last thing. Has there ever been a CF-GIS (ArcIMS, WMS, Flash GIS) article in the CF Developers journal? I am sure most CF developers have no idea what GIS is, but it might be a good way to exapnd that base.</p>
+<p>ArcSDE required for ArcIMS 9 and a DB<br />
+For most this is a non-issue as you will have stuck with a full SDE license throughout in order to connect to the DB. However, for us, having gone with Direct Connect and then having dropped SDE it is an issue. As Jeremy Bartlett pointed out a long while ago now, on page 10 of the document &#8220;Making a Direct Connection&#8221; it stated that ArcSDE is required for a Direct Connection (under System Requirements). Now that 9 has been released officially, I have checked up with ESRI and now have word that this document, and this policy, stands. Meaning that SDE is required even for read-only connections, which is what Direct Connect was and is&#8230;</p>
+<p>Posted by Kirk at 10:16 AM | Permalink | Comments (0) | TrackBacks (0)</p>
+<p>JUNE 03, 2004<br />
+ArcIMS 9 Data Delivery Extension<br />
+I was just browsing through the ArcIMS 9 info on ESRI&#8217;s web site and I have noticed the Data Delivery Extension, which &#8220;..enables users to easily select, export, and deliver data in multiple formats and projections from a centralized Internet Map Server&#8221;. Amongst these formats are: EPS, SVG, VML, and VRML. The FAQ states that layers from &#8220;ESRI ArcSDE 8.x/SDE 3.x&#8221; can be exported, but Direct Connect is not mentioned. I suspect that Direct Connect now requires ArcSDE anyway, as pointed out previously by Jeremy Bartlett, but I still have not chased down the definitive answer to that one&#8230;</p>
+<p>ArcIMS 9 (4.0.2 ?)<br />
+Well, it seems the last entry got deleted&#8230;anyway, Jason has reported that ArcIMS is a bit more stable, but nothing major has changed &#8212; ArcIMS 4.0.1 apps still work under 9. Jason has also pointed out that his clients have copies but he has not received the final release&#8230;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/flash-arcims-cfmx/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flash-ArcIMS-CFMX</title>
+		<link>/flash-arcims-cfmx22-2/</link>
+					<comments>/flash-arcims-cfmx22-2/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2023 20:00:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=22</guid>
+
+					<description><![CDATA[Flash-ArcIMS-CFMX Hey Everybody- Here&#8217;s another Flash-ArcIMS-CF example application that my colleague (Asif Iqbal) here at the Kansas Geological Survey has written for the community. He has built it from the ground up using Flash as the GUI environment and CF as the back-end application logic environment. CF then executes requests to ArcIMS and the flash...]]></description>
+										<content:encoded><![CDATA[<p>Flash-ArcIMS-CFMX<br />
+Hey Everybody-</p>
+<p>Here&#8217;s another Flash-ArcIMS-CF example application that my colleague (Asif Iqbal) here at the Kansas Geological Survey has written for the community. He has built it from the ground up using Flash as the GUI environment and CF as the back-end application logic environment. CF then executes requests to ArcIMS and the flash client handles the output. Asif has done a great job on this and has documented the flash code extensively. I encourage you to check it out, download it, and try it out with your map services.</p>
+<p>This example application does not do any database queries or take advantage of the XML processing capabilities of CFMX which when employed make this environment 10 times more powerful. Dynamic database-driven Flash applications rule!</p>
+<p>Cheers,</p>
+<p>OK, so now we have a new version of ArcIMS &#8212; but has so much happened since the initial release? And how is the competition doing? I haven&#8217;t followed things very closely, but I feel that ArcIMS is passed in terms of standards compliance at least. How does ArcIMS stack up against deegree, mapserver and others (non-open source) in performance/standards/cartographic quality/database support. I recently saw the demis demo, and I was very impressed: http://www.demis.nl/home/pages/wms/docs/wmsclients.htm</p>
+<p>&nbsp;</p>
+<p>I just wanted to let everyone know that I will be filling in for Jason at the ESRI conference&#8211;Jason&#8217;s going phishing. He asked me to take over the organization of the CF-ArcIMS users group meeting we are having. So&#8230;I would like to wet the appetite of any newbie&#8217;s that come along by showing them all of the way cool, easy things that you can do with CF in combination with ArcIMS. Jason has suggested inviting Margaret from ESRI (a cf developer who works on one the ArcIMS teams) to come and give a short &#8220;what&#8217;s new&#8221; with the latest release of ArcIMS. What about a CF expert? Paul H. are you going to be at the conference? And if so would you like to get roped into this?</p>
+<p>We would also like to showcase other sites the community has developed. I know everybody has the issue of&#8230;this site is not for public display&#8230;so what I would like to see is if the community could give one or two powerpoint slides that I could show to the group. What do you think?</p>
+<p>Also&#8230;What is up with Macromedia&#8217;s CF discussion group page? It hasn&#8217;t worked for like two months&#8230;.</p>
+<p>One last thing. Has there ever been a CF-GIS (ArcIMS, WMS, Flash GIS) article in the CF Developers journal? I am sure most CF developers have no idea what GIS is, but it might be a good way to exapnd that base.</p>
+<p>ArcSDE required for ArcIMS 9 and a DB<br />
+For most this is a non-issue as you will have stuck with a full SDE license throughout in order to connect to the DB. However, for us, having gone with Direct Connect and then having dropped SDE it is an issue. As Jeremy Bartlett pointed out a long while ago now, on page 10 of the document &#8220;Making a Direct Connection&#8221; it stated that ArcSDE is required for a Direct Connection (under System Requirements). Now that 9 has been released officially, I have checked up with ESRI and now have word that this document, and this policy, stands. Meaning that SDE is required even for read-only connections, which is what Direct Connect was and is&#8230;</p>
+<p>ArcIMS 9 Data Delivery Extension<br />
+I was just browsing through the ArcIMS 9 info on ESRI&#8217;s web site and I have noticed the Data Delivery Extension, which &#8220;..enables users to easily select, export, and deliver data in multiple formats and projections from a centralized Internet Map Server&#8221;. Amongst these formats are: EPS, SVG, VML, and VRML. The FAQ states that layers from &#8220;ESRI ArcSDE 8.x/SDE 3.x&#8221; can be exported, but Direct Connect is not mentioned. I suspect that Direct Connect now requires ArcSDE anyway, as pointed out previously by Jeremy Bartlett, but I still have not chased down the definitive answer to that one&#8230;</p>
+<p>ArcIMS 9 (4.0.2 ?)<br />
+Well, it seems the last entry got deleted&#8230;anyway, Jason has reported that ArcIMS is a bit more stable, but nothing major has changed &#8212; ArcIMS 4.0.1 apps still work under 9. Jason has also pointed out that his clients have copies but he has not received the final release&#8230;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/flash-arcims-cfmx22-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CF_ArcIMS</title>
+		<link>/cf_arcims/</link>
+					<comments>/cf_arcims/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2023 19:59:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=20</guid>
+
+					<description><![CDATA[We had a disk controller on our (now old) production box die last week while I was on holiday. Luckily we had another on order&#8230;anyway After re-installing everything on the new box, I have run into problems registering cfx_esrimap &#8212; I register it at its usual (old) location of JRUN4/bin/ but when I try to...]]></description>
+										<content:encoded><![CDATA[<p>We had a disk controller on our (now old) production box die last week while I was on holiday. Luckily we had another on order&#8230;anyway After re-installing everything on the new box, I have run into problems registering cfx_esrimap &#8212; I register it at its usual (old) location of JRUN4/bin/ but when I try to run a CF + ArcIMS page I get an &#8220;unable to load library&#8221; error from CF_ArcIMS. Now I know I should just change everything and use the Java connector&#8230;but this should be a simple problem that may have to do with running the &#8220;latest&#8221; of everything JRUN and CF. Margaret had a similar problem that she was asking me about a few weeks ago, but all I could say was basically &#8220;it&#8217;s working on mine&#8230;&#8221;, so I suspect this is the same problem&#8230;<br />
+Coldfusion/ArcIMS Users Group Meeting<br />
+Hello everyone. Just got word back from ESRI on a meeting room, time and date for the 2nd annual CF ArcIMS users group meeting to be held during the User Conference in San Diego. Here it is:</p>
+<p>Date: 8/10/2004<br />
+Time: 12:15 pm &#8211; 1:15 pm<br />
+Room: Room 14-A</p>
+<p>Maybe we&#8217;ll get some guest speakers and an agenda this year? Ideas?</p>
+<p>At the moment I am going to stick with JRUN as the Tomcat issues had caused me too much grief, but if you want to make the upgrade to CFMX and use Tomcat read Fred&#8217;s post, he knows more than a thing or two about CFMX configuration issues. Good job Fred.</p>
+<p>&nbsp;</p>
+<p>XML Spy<br />
+I have just started having a look at XML Spy 5, which arrived some time ago, but I must admit that I still use CF Studio 5 for just about everything. I know I need a tool for XML (and AXL) validation, but as a developer it seems that that spare 50 &#8211; 75 hours to learn a new software package just isn&#8217;t there lying on the desk when I log on in the morning.</p>
+<p>That said, I do see the usefulness of the tool, and XML solutions, including Web Services (not to mention RSS feeds) are getting more pervasive by the minute. If anyone is using some other XML editor/tool/method I would like to know, and I will stick with good &#8216;ol CF Studio for the timebeing &#8212; now if I could just find those spare hours sitting somewhere behind the coffee cup&#8230;</p>
+<p>Oh yes, if you are using XML Spy 5, Altova released an update today (V. 5 release 4) that can be dowloaded at: http://www.altova.com/download . And if you don&#8217;t have it, you download the evaluation version at the same download address, so you can fill up a few of those spare hours&#8230;</p>
+<p>We&#8217;ve been Goog&#8217;d<br />
+I just heard from Geoff Bowers this morning (creator of the fullasagoog.com Blog aggregator) and we have been added to Full As A Goog . If you have a look we are listed as &#8220;ArcIMS&#8221; in &#8220;Blogs on Tap&#8221; in the screen-left menu . So if you want to read the Blog there, well you can, that&#8217;s all. New entries will also appear on the main full as a goog page as CF entries. I am very happy to be included in the wider MX development community, and I think full as a goog is a great application. Goog out.</p>
+<p>CFMX Updater 3 Disables Remoting Web Services<br />
+CFMX Updater 3 disables Flash Remoting&#8217;s access to web services, although it does not disable your Flash Remoting via CFCs &#8211; I needed to clarify that one. So if you want this access you need to edit the web.xml file located within flashgateway.ear &gt; gateway-webapp.war to set the DISABLE_CFWS_ADAPTERS parameter to false (it will be set to true after the Updater 3 Install) and then pack the whole thing up again.</p>
+<p>The technote for doing this is located here.</p>
+<p>Projections<br />
+I need a way to implement different projections from within map services and on the fly. Does anyone know of a good resource on the topic, or have any tips/suggestions ? I am pulling my data out of SDE &#8211; connected to Oracle which is spatially enabled with the Oracle code for lat/long data, which is 8307, I believe.</p>
+<p>Royale<br />
+I have been hearing a bit from the Macromedia rumour mill on &#8216;Royale&#8217; the new technology to build Flash interfaces entirely from XML I&#8217;m sure we will be hearing more about this in the near future&#8230; see mesh on mx &#8212; Also see Laszlo Systems for something that may be similar.</p>
+<p>Even if ArcXML disappears with the next release (which is also a rumour), there will still have to be some XML support built into the next ArcIMS release, whether this is real GML 3.0 or whatever&#8230;</p>
+<p>Why the Lack of Docs ?<br />
+Well, given the discussion going on about getting ArcIMS working under CFMX without the need for a servlet engine has caused me to think why ESRI seems to be shying away from official CFMX support when, in fact, CF is the best platform to develop ArcIMS applications. I don&#8217;t want to wax into Microsoft conspiracy theories, but one has to wonder why&#8230;</p>
+<p>Flash Remoting and JRUN<br />
+I am still having some issues with my CFMX Flash Remoting which was taken over by JRUN Flash Remoting after my JRUN install. Now that I have CFMX up and running with ArcIMS, it logically follows for me to begin using CFCs and expose them both to the ColdFusion ArcIMS pages as well as to my Flash front-end menu (and any other Flash based menu add-ons).</p>
+<p>It should be a simple fix as JRUN installs its version of Flash Remoting and that takes over from the CFMX version. Anyway, I have just come back to this issue, and I think Flash based components would be ideally suited for an ArcIMS interface.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cf_arcims/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
