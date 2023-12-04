@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Nov 2023 20:38:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Dec 2023 18:22:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,94 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
+		<title>VCB Frequently Asked Questions</title>
+		<link>/ember-cli-infinite-scroll/</link>
+					<comments>/ember-cli-infinite-scroll/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2023 18:19:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=37</guid>
+
+					<description><![CDATA[What is VCB? VCB stands for Visual Circuit Board. Basically it lets you visually create systems in a circuit board like manner. The whole thing behaves in a very intuitive manner by using visual tools to assemble systems from parts. From the user viewpoint VCB is just tools, parts and systems. For example to build...]]></description>
+										<content:encoded><![CDATA[<p><strong>What is VCB?</strong><br />
+VCB stands for Visual Circuit Board. Basically it lets you visually create systems in a circuit board like manner. The whole thing behaves in a very intuitive manner by using visual tools to assemble systems from parts. From the user viewpoint VCB is just tools, parts and systems.</p>
+<p>For example to build a small system you would go the part inventory and double click on a few parts to add them to a circuit. Then you would go to the circuit and drag the parts to where you wanted them. Then you would add a few links (connections) to hook up the parts. Next you could configure individual parts to work the way you wanted in this system, such as by setting values, colors, size, workflow steps, etc. Then you could start the system and use it immediately. Since it would invariably need further work you could continue building the system while it was running. This allows you to tinker and fine tune a system in real time.</p>
+<p><strong>What is part?</strong><br />
+A part is a type of component. In VCB parts play the leading role, with a supporting cast of links, events, devices, pins, etc. All these other elements enhance the user&#8217;s abilities to assemble systems from parts as easily as playing with Lego blocks.</p>
+<p><strong>What is Hierarchical Composition?</strong><br />
+It is the organization of a system&#8217;s elements into a strict tree of containers and leafs, with a single root container. This has many advantages. Large systems can be understood, navigated and managed better. Any properly encapsulated container can be reused in another system. Tools can handle hierarchical systems more easily that a glob or web of elements. Even system elements themselves can navigate and use their system or other systems easier.</p>
+<p>Note that Hierarchical Composition is missing from standard OO languages. There&#8217;s nothing to prevent a complicated weblike object graph. This contributes to the tendency of large OO systems to be hard to fathom.</p>
+<p><strong>How I can develop a new part?</strong><br />
+It could be done by 1) development of Java class, 2) composition of existed parts or devices, and 3) using state machine notation.</p>
+<p><strong>What is device?</strong><br />
+Device is a part that contains other parts. We could have used the word &#8220;container&#8221; for this, but felt it was overused and not distinct enough. Instead we chose &#8220;device&#8221; so as to have a specific, unambiguous word to use in VCB. &#8220;Device&#8221; also implies complexity, which is exactly what&#8217;s happening &#8211; One assembles parts into a complex arrangement giving desired behavior, and the result is a device.</p>
+<p><strong>What is pin?</strong><br />
+Pin is a part element that handles part&#8217;s input or output. Pin has a name, whether it&#8217;s an in or out pin, and pin fields. The pin name describes the overall responsibility. Fields are analogous to method arguments and return values. Fields are what a pin exposes (outpin) or anticipates (inpin) for read and write access. Pins are analogous to electronic part pins or ports, hence the choice of &#8220;Pin&#8221;.</p>
+<p><strong>What is the difference between VCB and other UML tools?</strong><br />
+UML tools (Together/J, Rational Rose) are OOP tools and deals with classes and objects while VCB is CBD (Component Based Development) tool that deals with Component.</p>
+<p><strong>What is the difference between OOP and CBD (or objects vs. components)?</strong><br />
+Components vs. Objects:</p>
+<p>Components may be written in different languages<br />
+A component may have its own persistent state<br />
+A component may provide access to objects inside it<br />
+There may be more ways of interacting with a component other than method calls<br />
+Components are instantiated through containers<br />
+Components are generally more robustly packaged<br />
+Can l use Java Beans as VCB parts?<br />
+Yes. Standard wrapper will be provided.</p>
+<p>Can l use plain java class as VCB part?<br />
+Yes. For complex cases Aspect Oriented Programming could be used. Aspect-oriented software development is a new technology for separation of concerns (SOC) in software development. The techniques of AOSD make it possible to modularize crosscutting aspects of a system</p>
+<p>Can l use a module in C or other languages as VCB part?<br />
+Yes.</p>
+<p>Can l develop distributed applications using VCB?<br />
+Yes.</p>
+<p>Can l develop EJB applications using VCB?<br />
+Yes.</p>
+<p>Can l generate executable class to improve performance?<br />
+Yes. &#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ember-cli-infinite-scroll/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Architected Rapid Application Component Based Development Framework and IDE</title>
+		<link>/torii/</link>
+					<comments>/torii/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2023 18:16:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=35</guid>
+
+					<description><![CDATA[Visual Component Based Development framework for rapid application and systems development Visit Buildap powered project hosted at https://e-records.dev.java.net/. The running instance of project you can find at http://e-records.buildap.com/. Buildap (aka Visual Software Circuit Board) is a Visual Component Based Development framework for rapid application development and systems integration. It is an open source tool for...]]></description>
+										<content:encoded><![CDATA[<p>Visual Component Based Development framework for rapid application and systems development</p>
+<p>Visit Buildap powered project hosted at https://e-records.dev.java.net/. The running instance of project you can find at http://e-records.buildap.com/.</p>
+<p>Buildap (aka Visual Software Circuit Board) is a Visual Component Based Development framework for rapid application development and systems integration. It is an open source tool for development of enterprise software applications using Architected Model Driven (AMD) and Component Based Development (CBD) approaches. Buildap can be used for design and development of web applications (e.g. ecommerce shops), as well as standalone and distirbuted Java applications. As a proof of concept Pet Store well-known ecommerce application was developed using Buildap framework.</p>
+<p>In contrast to UML based tools it uses concept of coarse grained software components versus objects. The following principles make Buildap tool different than UML design and development enviromnets and frameworks:</p>
+<p>no shared memory between components<br />
+asynchronous communications between components<br />
+components are execiting in independent threads<br />
+hierarchical composition of components into more complex components<br />
+message or event based architectures support<br />
+anonymous collaboration (component doesn’t ‘know’ which components it is collaborating with)<br />
+connectors are first order elements</p>
+<p>Architected Rapid Application Development (ARAD) is a new category of tools with a proven ROI edge, according to a recently completed user survey by Gartner, Inc. ARAD tools represent a middle way between the simplified RAD tools and the complexity of the Architected Model Driven (AMD)approach, says Mike Burba, a program manager for Compuware, one of the vendors whose customers Gartner studied. &#8220;It’s kind of a pragmatic middle of the road approach,&#8221; he says of ARAD. According to a recent Gartner Inc. study, ARAD tools will be mandatory for mainstream companies moving to build service-oriented applications. The study noted that ARAD tools improved return on investment to as much as 15 times what it had been when traditional development approaches were used.</p>
+<p>Modern software systems are becoming more and more complex while productivity of the development remains on the same level. Developers are repeatedly reinventing the wheels coding similar programs over and over again. Even within the same enterprise the reuse rate is low and waste is enormous. Lifetime of software product is short because of high modernization price. Finally, the integration cost of existed system components is high due to high learning curve of different interfaces, non-trivial setup and manual programming of glue code. Developers often prefer to develop from scratch rather then use third party products. UML tools certainly improve productivity but they dont support large scale architecture design.</p>
+<p>Approaches like Component Based Development and Architect Driven Development suppose to solve these issues. Unfortunately they are not yet backed with mature tools. Studies show that such tools can improve the product in orders. Buildap is providing an intuitive and powerful instrument and framework for application development with ambitions to reach an unprecedented level of visibility, productivity and quality of software project due to high reuse of software components.</p>
+<p>Buildap (aka VSCB Visual Software Circuit Board) is one of the first open source Architected Rapid Application Development tools, which employs an model-driven component-based development and component assembly methodology towards the rapid design, integration, prototyping and development of large software applications. Application of Circuit Board technique to software development makes Buildap a unique and improves both productivity of the development process and quality of the resulted software products. The visual component assembly approach makes even complex software architecture easy to visualize and comprehend.</p>
+<p>Buildap is a free software and based on open source GPL licence. Buildap early completed functional version is available for download and can be used as a free tool for rapid web design and development, database application development, software engineering and generic software development. Buildap will allow to build complex application without any programming. Buildap project is hosted on SourceForge open source hosting server.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/torii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ColdFusion, Flex, AIR and spatial applications (maps and more)&#8230;</title>
 		<link>/coldfusion-flex-air-and-spatial-applications-maps-and-more/</link>
 					<comments>/coldfusion-flex-air-and-spatial-applications-maps-and-more/#respond</comments>
@@ -83,46 +171,8 @@ Since CFMX for J2EE has solved my problems, and I am liking it more and more, I 
 			</item>
 		<item>
 		<title>Flash-ArcIMS-CFMX</title>
-		<link>/flash-arcims-cfmx/</link>
-					<comments>/flash-arcims-cfmx/#respond</comments>
-		
-		<dc:creator><![CDATA[test]]></dc:creator>
-		<pubDate>Tue, 28 Nov 2023 20:36:18 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=26</guid>
-
-					<description><![CDATA[Hey Everybody- Here&#8217;s another Flash-ArcIMS-CF example application that my colleague (Asif Iqbal) here at the Kansas Geological Survey has written for the community. He has built it from the ground up using Flash as the GUI environment and CF as the back-end application logic environment. CF then executes requests to ArcIMS and the flash client...]]></description>
-										<content:encoded><![CDATA[<p>Hey Everybody-</p>
-<p>Here&#8217;s another Flash-ArcIMS-CF example application that my colleague (Asif Iqbal) here at the Kansas Geological Survey has written for the community. He has built it from the ground up using Flash as the GUI environment and CF as the back-end application logic environment. CF then executes requests to ArcIMS and the flash client handles the output. Asif has done a great job on this and has documented the flash code extensively. I encourage you to check it out, download it, and try it out with your map services.</p>
-<p>http://drysdale.kgs.ku.edu/flash/</p>
-<p>This example application does not do any database queries or take advantage of the XML processing capabilities of CFMX which when employed make this environment 10 times more powerful. Dynamic database-driven Flash applications rule!</p>
-<p>ArcIMS and the competition<br />
-OK, so now we have a new version of ArcIMS &#8212; but has so much happened since the initial release? And how is the competition doing? I haven&#8217;t followed things very closely, but I feel that ArcIMS is passed in terms of standards compliance at least. How does ArcIMS stack up against deegree, mapserver and others (non-open source) in performance/standards/cartographic quality/database support. I recently saw the demis demo, and I was very impressed: http://www.demis.nl/home/pages/wms/docs/wmsclients.htm</p>
-<p>Hi All-</p>
-<p>I just wanted to let everyone know that I will be filling in for Jason at the ESRI conference&#8211;Jason&#8217;s going phishing. He asked me to take over the organization of the CF-ArcIMS users group meeting we are having. So&#8230;I would like to wet the appetite of any newbie&#8217;s that come along by showing them all of the way cool, easy things that you can do with CF in combination with ArcIMS. Jason has suggested inviting Margaret from ESRI (a cf developer who works on one the ArcIMS teams) to come and give a short &#8220;what&#8217;s new&#8221; with the latest release of ArcIMS. What about a CF expert? Paul H. are you going to be at the conference? And if so would you like to get roped into this?</p>
-<p>We would also like to showcase other sites the community has developed. I know everybody has the issue of&#8230;this site is not for public display&#8230;so what I would like to see is if the community could give one or two powerpoint slides that I could show to the group. What do you think?</p>
-<p>&nbsp;</p>
-<p>Also&#8230;What is up with Macromedia&#8217;s CF discussion group page? It hasn&#8217;t worked for like two months&#8230;.</p>
-<p>One last thing. Has there ever been a CF-GIS (ArcIMS, WMS, Flash GIS) article in the CF Developers journal? I am sure most CF developers have no idea what GIS is, but it might be a good way to exapnd that base.</p>
-<p>ArcSDE required for ArcIMS 9 and a DB<br />
-For most this is a non-issue as you will have stuck with a full SDE license throughout in order to connect to the DB. However, for us, having gone with Direct Connect and then having dropped SDE it is an issue. As Jeremy Bartlett pointed out a long while ago now, on page 10 of the document &#8220;Making a Direct Connection&#8221; it stated that ArcSDE is required for a Direct Connection (under System Requirements). Now that 9 has been released officially, I have checked up with ESRI and now have word that this document, and this policy, stands. Meaning that SDE is required even for read-only connections, which is what Direct Connect was and is&#8230;</p>
-<p>Posted by Kirk at 10:16 AM | Permalink | Comments (0) | TrackBacks (0)</p>
-<p>JUNE 03, 2004<br />
-ArcIMS 9 Data Delivery Extension<br />
-I was just browsing through the ArcIMS 9 info on ESRI&#8217;s web site and I have noticed the Data Delivery Extension, which &#8220;..enables users to easily select, export, and deliver data in multiple formats and projections from a centralized Internet Map Server&#8221;. Amongst these formats are: EPS, SVG, VML, and VRML. The FAQ states that layers from &#8220;ESRI ArcSDE 8.x/SDE 3.x&#8221; can be exported, but Direct Connect is not mentioned. I suspect that Direct Connect now requires ArcSDE anyway, as pointed out previously by Jeremy Bartlett, but I still have not chased down the definitive answer to that one&#8230;</p>
-<p>ArcIMS 9 (4.0.2 ?)<br />
-Well, it seems the last entry got deleted&#8230;anyway, Jason has reported that ArcIMS is a bit more stable, but nothing major has changed &#8212; ArcIMS 4.0.1 apps still work under 9. Jason has also pointed out that his clients have copies but he has not received the final release&#8230;.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/flash-arcims-cfmx/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Flash-ArcIMS-CFMX</title>
-		<link>/flash-arcims-cfmx22-2/</link>
-					<comments>/flash-arcims-cfmx22-2/#respond</comments>
+		<link>/ember-ic-you/</link>
+					<comments>/ember-ic-you/#respond</comments>
 		
 		<dc:creator><![CDATA[test]]></dc:creator>
 		<pubDate>Tue, 28 Nov 2023 20:00:09 +0000</pubDate>
@@ -149,7 +199,7 @@ I was just browsing through the ArcIMS 9 info on ESRI&#8217;s web site and I hav
 Well, it seems the last entry got deleted&#8230;anyway, Jason has reported that ArcIMS is a bit more stable, but nothing major has changed &#8212; ArcIMS 4.0.1 apps still work under 9. Jason has also pointed out that his clients have copies but he has not received the final release&#8230;.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/flash-arcims-cfmx22-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/ember-ic-you/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
